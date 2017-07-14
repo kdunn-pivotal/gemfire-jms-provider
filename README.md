@@ -7,3 +7,4 @@ This project demonstrates how to embed the FFMQ JMS provider and a corresponding
 - [ ] Embed and test FFMQ JMS consumer running _inside_ GemFire
 - [ ] Re-factor test application to not be a complete hack
 - [ ] Test end-to-end workflow via a test JMS producer application running _outside_ GemFire
+- [ ] Test with Golden Gate, using [this](http://jinyuwang.weebly.com/core-platform/how-to-use-oracle-goldengate-for-java-adapter) guide as a reference.
